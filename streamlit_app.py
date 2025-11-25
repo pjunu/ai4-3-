@@ -74,10 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
-labels[0] : {"texts" : ["중국식냉면은 맛있어"], "images" : [" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.edaily.co.kr%2FNews%2FRead%3FnewsId%3D01771206586406952%26mediaCodeNo%3D257&psig=AOvVaw2u1sUZCylIr9p0yRlNZpAo&ust=1764116066686000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIihz8uCjJEDFQAAAAAdAAAAABAE "]},
-labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : [" https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.health.chosun.com%2Fsvc%2Fnews_view.html%3Fcontid%3D2024080201855&psig=AOvVaw1Rl43JIocPEwuRSU30W3I1&ust=1764116221121000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCuuoKDjJEDFQAAAAAdAAAAABAE "]},
-labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : [" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.joongang.co.kr%2Farticle%2F22390134&psig=AOvVaw0xk3uOmtzEsuZxzy6pIggD&ust=1764116283636000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOipkKGDjJEDFQAAAAAdAAAAABAX "]},
-labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : [" https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25ED%2583%2595%25EC%2588%2598%25EC%259C%25A1%3Fuuid%3Dc1228c80-ee48-4b59-8d8d-02d8b642d0bd&psig=AOvVaw2J1u6sfdcmLUJeGC9Zm_Cs&ust=1764116351175000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDkmsCDjJEDFQAAAAAdAAAAABAE "]},
+labels[0] : {"texts" : ["중국식냉면은 맛있어"], "images" : [" https://item.elandrs.com/upload/prd/orgimg/786/2107100786_0000001.jpg?w=750&h=&q=100 "]},
+labels[1] : {"texts" : ["짜장면은 맛있어"], "images" : [" https://i.namu.wiki/i/j2AxLP9AtrcJebh4DVfGxowfXwI3a95dG_YZb_Ktczc6Ca7ACyd_NJL3YHQMw8SABGTQiJDwSpySOSSBLZVEZw.webp "]},
+labels[2] : {"texts" : ["짬뽕은 맛있어"], "images" : [" https://pds.joongang.co.kr//news/component/htmlphoto_mmdata/201802/24/46f9e8cd-ff32-440d-883e-e6d79ba15b3d.jpg "]},
+labels[3] : {"texts" : ["탕수육은 맛있어"], "images" : [" https://i.namu.wiki/i/NSZu9w4DRwEPOCgPSzvs4sAZlxfMBoxZLCZQgM_O4wRH8jN0guRfBiLURu-Tno5p-Q2aw5e5gy9gLJsnYKlq8Q.webp "]},
     
 }
 
